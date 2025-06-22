@@ -5,13 +5,7 @@
 Olá! Me chamo Vitória Maria Passos Oliveira, tenho 24 anos, sou natural do Amazonas e atualmente moro em Santa Catarina. Estou cursando Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI Joinville (SC). Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados na área de desenvolvimento web.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/vitoria-passos-179610254/">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    <a href="https://www.linkedin.com/in/vitoria-passos-179610254/" target="_blank">< img scr = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
 ---
